@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-08T19:03:13.699Z'
-dateModified: '2016-03-08T19:02:44.876Z'
+description: Myst Wall
+datePublished: '2016-03-08T19:07:49.663Z'
+dateModified: '2016-03-08T19:07:38.971Z'
 title: Devilpolis Prototype
 author: []
 sourcePath: _posts/2016-03-08-devilpolis-prototype.md
@@ -45,6 +45,6 @@ Game Screen Shoot 6
 
 The Night Skyline
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2d42783-b83c-473a-bb4e-235dbbcba0ca.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b54a17-4a26-49a1-afe7-0c5aa1117cb5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f9a1af6-c60c-4757-827b-605aa266eb0c.jpg)
 
 Logo
