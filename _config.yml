@@ -1,7 +1,7 @@
 name: RedCandleCoffee
 favicon: null
-layout_spectrum: 0.5995249117258936
-typography_spectrum: 0.17228077771142125
+layout_spectrum: 1
+typography_spectrum: 0.88992
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.0884652272798121
+    - '#2c0000'
+    - '#4d4f56'
+    - '#8ba6c0'
+    - '#6d7e8c'
+    - '#cfd7da'
+  brandStrength: 0.5
   lightness: 0.3899224656634033
   saturation: 0.8105760223697871
   rhythmicContrast: 0.510586540447548
