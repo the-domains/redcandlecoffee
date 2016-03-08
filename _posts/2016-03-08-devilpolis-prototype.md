@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T16:24:42.988Z'
-dateModified: '2016-03-08T16:24:08.940Z'
+datePublished: '2016-03-08T19:03:13.699Z'
+dateModified: '2016-03-08T19:02:44.876Z'
 title: Devilpolis Prototype
 author: []
 sourcePath: _posts/2016-03-08-devilpolis-prototype.md
@@ -45,6 +45,6 @@ Game Screen Shoot 6
 
 The Night Skyline
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2d42783-b83c-473a-bb4e-235dbbcba0ca.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b54a17-4a26-49a1-afe7-0c5aa1117cb5.jpg)
 
 Logo
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b54a17-4a26-49a1-afe7-0c5aa1117cb5.jpg)
